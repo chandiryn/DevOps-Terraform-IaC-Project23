@@ -1,6 +1,9 @@
 # Environment Name
 environment = "dev"
 
+# Resource Group location
+resoure_group_location = "eastus2"
+
 # Virtual Network Variables
 vnet_name = "vnet"
 vnet_address_space = ["10.1.0.0/16"]
